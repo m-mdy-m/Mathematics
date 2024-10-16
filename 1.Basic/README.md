@@ -7,7 +7,10 @@
 - **Key Topics**: Algebraic expressions, equations, inequalities, functions, graphs, trigonometric identities, and functions.
 - **Recommended Books**:
   - **"[Algebra and Trigonometry" by Robert F. Blitzer](https://www.washoeschools.net/cms/lib/NV01912265/Centricity/Domain/1495/5th%20Edition%20Blitzer.pdf)**: A thorough introduction to algebra and trigonometry with real-world applications.
-  - **"Precalculus: Mathematics for Calculus" by James Stewart**: A detailed precalculus text covering algebra and trigonometry essentials.
+  - **"[Precalculus: Mathematics for Calculus" by James Stewart](https://bayanbox.ir/view/5303029425204425544/003-precalculus-stewart.pdf)**: A detailed precalculus text covering algebra and trigonometry essentials.
+  - [کتاب کامل جبر (ریاضیات پایه)](https://dl.riazisara.ir/download/darsnameh/payeh/riazyat-payeh-sarraf.zip)
+  - [کتاب جامع و کامل اصول مثلثات (استاد صراف)](https://dl.riazisara.ir/download/book/osool-e-mosallasat-sarraf.pdf)
+  - [ریاضی 1 دکتر شهشهانی](https://sv.20file.org/up1/1141_0.pdf)
 
 ---
 

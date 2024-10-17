@@ -8,6 +8,8 @@
 - **Recommended Books**:
   - **"Calculus" by Michael Spivak**: A rigorous introduction to single-variable calculus.
   - **"Thomas' Calculus" by George B. Thomas**: A clear, applied approach to both single-variable and multi-variable calculus.
+  - **"[کتاب حساب دیفرانسیل و انتگرال آپوستل ( جلد یک )](http://s6.picofile.com/file/8219544318/%D8%AD%D8%B3%D8%A7%D8%A8_%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D9%84_%D9%88%D8%A7%D9%86%D8%AA%DA%AF%D8%B1%D8%A7%D9%84_%D8%A2%D9%BE%D9%88%D8%B3%D8%AA%D9%84_%D8%AC%D9%84%D8%AF_%D8%A7%D9%88%D9%84.pdf.html)**
+  - **"[کتاب حساب دیفرانسیل و انتگرال آپوستل ( جلد دو )](http://s6.picofile.com/file/8219541984/%D8%AD%D8%B3%D8%A7%D8%A8_%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D9%84_%D9%88%D8%A7%D9%86%D8%AA%DA%AF%D8%B1%D8%A7%D9%84_%D8%A2%D9%BE%D9%88%D8%B3%D8%AA%D9%84_%D8%AC%D9%84%D8%AF_%D8%AF%D9%88%D9%85.pdf.html)**
 
 ---
 
